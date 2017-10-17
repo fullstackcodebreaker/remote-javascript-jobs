@@ -1,0 +1,15 @@
+{
+  "name": "remotejavascript",
+  "version": "1.0.0",
+  "description": "Remote Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Remote",
+    "Javascript"
+  ],
+  "author": "Emeka Onu",
+  "license": "MIT"
+}
